@@ -40,4 +40,5 @@ The project includes Laravel's default migrations (`database/migrations`) and se
 
 ## Live Site
 
-(Hosted link goes here)
+This project is not hosted online. Run it locally using the steps above.
+
